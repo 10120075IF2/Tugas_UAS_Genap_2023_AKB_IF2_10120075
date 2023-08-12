@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "A:\\Project Development\\Tugas Kuliah\\Android Studio\\Joki\\Tugas_UTS_Genap_2023_AKB_IF2_10120075\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RGSann\\.gradle\\caches\\transforms-3\\580e2e26d22db6a0f56f7fc18b810e75\\transformed\\appcompat-1.4.1\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        }
+    ]
+}

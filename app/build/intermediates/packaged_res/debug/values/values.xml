@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="grey">#d2d2d2</color>
+    <color name="lavender">#8692f7</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="app_name">10120075_Aplikasi Note</string>
+    <string name="default_web_client_id" translatable="false">1029096775363-tp39rn5smiekbq4cb8lj7vvhgvvt0akc.apps.googleusercontent.com</string>
+    <string name="email">Email: dhavin.10120075@mahasiswa.unikom.ac.id</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="gcm_defaultSenderId" translatable="false">1029096775363</string>
+    <string name="google_api_key" translatable="false">AIzaSyB75bho6hdtM_ugMFnFH8i2PbXaS1r5LIo</string>
+    <string name="google_app_id" translatable="false">1:1029096775363:android:3f1eaa40b7e45bf05f4c76</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB75bho6hdtM_ugMFnFH8i2PbXaS1r5LIo</string>
+    <string name="google_storage_bucket" translatable="false">aplikasi-note-dd6c7.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="info">Info</string>
+    <string name="kelas">Kelas: IF2</string>
+    <string name="logout">Logout</string>
+    <string name="memo">Tips cara membuat notes</string>
+    <string name="nama">Nama: Dhavin Ilham Zulfah</string>
+    <string name="next">Next</string>
+    <string name="nim">NIM: 10120075</string>
+    <string name="note">Notes</string>
+    <string name="page1">Halaman 1 of 2</string>
+    <string name="page2">Halaman 2 of 2</string>
+    <string name="penjelasan">  Tekan Notes pada NavBar di bawah, lalu tekan tanda plus di kanan bawah.</string>
+    <string name="previous">Previous</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">aplikasi-note-dd6c7</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="txt_add">Tambahkan Note</string>
+    <string name="txt_intro">Aplikasi ini di buat untuk memenuhi syarat tugas UTS aplikasi komputasi bergerak di Universitas Komputer Indonesia (Unikom).</string>
+    <string name="txt_welcome">Aplikasi Notes By Dhavin Ilham Zulfah</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">#854DE8</item>
+        <item name="colorPrimaryVariant">#FF8A00</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">#957DAD</item>
+        <item name="colorSecondaryVariant">#F44336</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="SCREEN">
+        <item name="android:background">#FFF</item>
+    </style>
+    <style name="TEXT">
+        <item name="android:background">#000</item>
+    </style>
+    <style name="Theme.Toolbar.ToolBarActivity" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">#854DE8</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@android:color/holo_blue_dark</item>
+    </style>
+</resources>

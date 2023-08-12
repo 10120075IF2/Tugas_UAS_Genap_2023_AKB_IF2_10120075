@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "A:\\Project Development\\Tugas Kuliah\\Android Studio\\Joki\\Tugas_UTS_Genap_2023_AKB_IF2_10120075\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RGSann\\.gradle\\caches\\transforms-3\\580e2e26d22db6a0f56f7fc18b810e75\\transformed\\appcompat-1.4.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

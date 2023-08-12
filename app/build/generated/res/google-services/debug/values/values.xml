@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1029096775363-tp39rn5smiekbq4cb8lj7vvhgvvt0akc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1029096775363</string>
+    <string name="google_api_key" translatable="false">AIzaSyB75bho6hdtM_ugMFnFH8i2PbXaS1r5LIo</string>
+    <string name="google_app_id" translatable="false">1:1029096775363:android:3f1eaa40b7e45bf05f4c76</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB75bho6hdtM_ugMFnFH8i2PbXaS1r5LIo</string>
+    <string name="google_storage_bucket" translatable="false">aplikasi-note-dd6c7.appspot.com</string>
+    <string name="project_id" translatable="false">aplikasi-note-dd6c7</string>
+</resources>
